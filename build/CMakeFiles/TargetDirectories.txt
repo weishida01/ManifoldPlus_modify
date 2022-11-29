@@ -1,0 +1,3 @@
+/code/paper/mesh_simplify/ManifoldPlus/build/CMakeFiles/rebuild_cache.dir
+/code/paper/mesh_simplify/ManifoldPlus/build/CMakeFiles/manifold.dir
+/code/paper/mesh_simplify/ManifoldPlus/build/CMakeFiles/edit_cache.dir
